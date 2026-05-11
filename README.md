@@ -9,6 +9,7 @@ I am a Cybersecurity student at the **University of California, San Diego**. I b
 ### 🚀 What I'm Working On
 - 🎓 **Academic:** Completing my Professional Certificate in Cybersecurity at **UCSD** extended studies.
 - - 📜 Certifications: UCSD Professional Certificate in Cybersecurity. Pursuing **PSAA** (Practical SOC Analyst Associate), **LPIC-1** (Linux Professional Institute Certificate), and **PCEP** (Certified Associate in Python Programming).
+- ✅ **IBM QRadar SIEM Foundation** (Completed & Verified)
 - 🐍 **Automation:** Learning Python (3-4 hours/week) to automate IT support workflows.
 - ♻️ **Sustainability:** Developing better IT Asset Disposal (ITAD) and resource recovery methods.
 
